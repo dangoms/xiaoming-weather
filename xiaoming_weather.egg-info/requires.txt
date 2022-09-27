@@ -1,0 +1,3 @@
+requests
+chinese_calendar
+lxml
