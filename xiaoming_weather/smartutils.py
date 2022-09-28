@@ -3,12 +3,9 @@
 
 import sys
 import requests
-import urllib2
-import json
 import time
 import datetime
 import os
-from jira import JIRA
 from chinese_calendar import is_holiday, is_workday
 
 defaultencoding = 'utf-8'
