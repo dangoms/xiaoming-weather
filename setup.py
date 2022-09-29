@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name='xiaoming-weather',
-    version='1.0.1',
+    version='1.0.2',
     description='Xiaoming weather provides personalized weather data strings for chinese user.',
     long_description=readme(),
     long_description_content_type='text/markdown',
